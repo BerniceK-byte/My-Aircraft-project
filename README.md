@@ -27,3 +27,52 @@ The various types of Aircrafts
 The location of the Aircraft accidents
 
 The weather patterns for when the accidents happened
+
+I used 17 columns after cleaning for my Analysis,which included the following variables :
+
+1.Total number of accidents caused by various aircrafts
+2.The categories of Aircrafts involved
+3.Location of the Aircrafts accidents
+4.The weather patterns for when the accidents happened
+
+  
+EXPLORATORY DATA ANALYSIS
+
+Univariate Analysis
+AIRCRAFT CATEGORY -  From this data ,not many aircrafts are in use at the moment. Among the top 5 most used Aircrafts is the Aeroplane.This means it is the most popular Category of Aircraft used .This maybe because it has low maintenance cost and is mostly available in the market
+
+ WEATHER CONDITION-The VMC condition has highest distribution ,meaning this is when most Aircrafts leave the stations .
+ 
+Bivariate Analysis
+
+ Weather condition versus fatal injuries:
+ From the data we can see that in the VMC weather condition,where most Aircrafts have been in use,there are likely to be many fatal accidents as compared to the rest of the conditions.This is likely because the weather condition though mostly used, is not as convenient 
+
+ Multivariate Analysis
+ There is a positive correlation between fatal injuries and serious injuries.This is to say an increase in fatal injuries will increase the number of serious injuries
+ 
+ https://public.tableau.com/views/AircraftTableauAnalysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+ 
+
+ Recommendation
+1.From the data ,various categories of Aircrafts need to be updated ,since a good number of them are no longer in use. This makes the process of selection more difficult.
+2. Despite most Aircrafts working in the VMC weather condition, more safety precautions need to be taken to ensure safety of passengers
+3. A deeper research needs to be undertaken on the severity of accidents to understand more on the causes of this accidents.
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
